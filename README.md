@@ -1,5 +1,5 @@
-🎮 Agentic Game Builder AI
-Overview
+**🎮 Agentic Game Builder AI
+**Overview
 
 This project implements a multi-phase Agentic AI system capable of:
 
